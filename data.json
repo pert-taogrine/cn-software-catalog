@@ -1,0 +1,10 @@
+[
+  {"name": "i4Tools / 爱思助手", "cat": "iOS management",
+   "url": "https://i4cm.com/", "note": "iPhone backup, restore, app & ringtone tools"},
+  {"name": "UU Remote / UU远程", "cat": "Remote desktop",
+   "url": "https://uuyc163.com/", "note": "Low-latency remote control & game streaming"},
+  {"name": "Sunlogin / 向日葵", "cat": "Remote desktop",
+   "url": "https://sunlogim.com/", "note": "Remote control with remote power-on"},
+  {"name": "LDPlayer / 雷电模拟器", "cat": "Android emulator",
+   "url": "https://ldmqn.com/", "note": "High-FPS Android emulator with multi-instance"}
+]
