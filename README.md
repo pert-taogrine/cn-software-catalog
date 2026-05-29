@@ -1,0 +1,1 @@
+# cn-software-catalog\n\nA short Python static-site generator: edit `data.json`, run `python generate.py`, get `docs/index.html`.\n\n```bash\npython generate.py\n```\n\n## License\nMIT\n
